@@ -344,6 +344,13 @@
     <string name="alarm_profile_summary_change_to">When alarm triggers, the profile will be changed to
         <xliff:g id="profile">%s</xliff:g></string>
 
+    <!-- Stopwatch label -->
+    <string name="stopwatch_activity">Stopwatch</string>
+    <string name="stopwatch_pause">Pause</string>
+    <string name="stopwatch_start">Start</string>
+    <string name="stopwatch_lap">Lap</string>
+    <string name="stopwatch_reset">Reset</string>
+
 </resources>
 
 

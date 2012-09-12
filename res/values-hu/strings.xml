@@ -167,4 +167,11 @@
     <!-- Summary of alarm profile: Change profile to -->
     <string name="alarm_profile_summary_change_to">Ébresztéskor a következő profilra vált: <xliff:g id="profile">%s</xliff:g></string>
 
+    <!-- Stopwatch label -->
+    <string name="stopwatch_activity">Stopper óra</string>
+    <string name="stopwatch_pause">Szünet</string>
+    <string name="stopwatch_start">Kezdés</string>
+    <string name="stopwatch_lap">Köridő</string>
+    <string name="stopwatch_reset">Nulláz</string>
+
 </resources>
